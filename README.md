@@ -73,6 +73,11 @@ Markdown é uma forma de escrever arquivos texto seguindo regras que serão segu
 
 ### Tabelas
 
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 Anotações
 ---------
