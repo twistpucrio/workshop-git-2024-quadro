@@ -91,7 +91,22 @@ Anotações
 
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
-1.
+1. É importante prestar atenção no campo base ao criar o pull request
+2. Após a primeira configuração do Git na máquina, é necessário configurar username e email
+
+  * Uma forma de configurar esses itens é Abrir o Git GUI 
+  * Abrir a pasta local
+  * Selecionar o item Edit -> Options
+  * Alterar os campos no painel da direita (Global)
+
+3. Uma checklist para o fluxo de trabalho é
+  - [ ] Sync
+  - [ ] Pull
+  - [ ] Branch
+  - [ ] Stage
+  - [ ] Commit
+  - [ ] Push
+  - [ ] Pull Request (com atenção no base!)
 
 
 
