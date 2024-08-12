@@ -71,7 +71,13 @@ Por exemplo:
 
 ### Listas
 
+- Esse é um item
+- Esse é outro
+
 #### Listas Numeradas
+
+1. Primeiro item da lista
+2. Segundo item
 
 #### Listas com subitems
 
