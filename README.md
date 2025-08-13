@@ -1,4 +1,4 @@
-Workshop de Git 2024
+Workshop Git Twist
 ======================
 
 por [Bernardo Quaresma](mailto:bernardo@tegraf.puc-rio.br)
@@ -92,6 +92,7 @@ Anotações
 Usem esse espaço para manter uma lista de anotações e dicas como comandos do Git, links do GitHub e exemplos de Markdown.
 
 1. É importante prestar atenção no campo base ao criar o pull request
+
 2. Após a primeira configuração do Git na máquina, é necessário configurar username e email
 
   * Uma forma de configurar esses itens é Abrir o Git GUI 
@@ -107,6 +108,7 @@ Usem esse espaço para manter uma lista de anotações e dicas como comandos do 
   - [ ] Commit
   - [ ] Push
   - [ ] Pull Request (com atenção no base!)
+
 
 
 
